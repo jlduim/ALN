@@ -1,4 +1,4 @@
-# Álgebra Linear Numérica - Trabalhos Computacionais
+# Trabalhos Computacionais - Álgebra Linear Numérica
 
 Repositório contendo os trabalhos computacionais da disciplina Álgebra Linear Numérica da graduação em Matemática Aplicada pela FGV EMAp.
 
